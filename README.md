@@ -13,7 +13,7 @@ The analysis should contain the following:
 
 ​		Before we jump in the results and analysis, couple of things to consider and contrast. We are using the data from 2010 to 2017. We are considering all the weather stations that means data is repeated from anywhere to 3-6times, a same date can be repeated. Lastly as seen from the summary picture below, our count analysis is not the same(1700 rows for June as compare to 1517 for December)
 
-![June_Summary](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\surfs_up\June_Summary.PNG)                ![Dec_Summary](C:\Users\Fahad.Rehman\Desktop\UW DataBootcamp\surfs_up\Dec_Summary.PNG)
+![June_Summary](June_Summary.PNG)                ![Dec_Summary](Dec_Summary.PNG)
 
 ​		From the weather analysis perspective, there's hardly a four Fahrenheit difference between June and December for 25% and 50% quartiles and merely a three Fahrenheit difference for mean, 75% and max values. 
 
